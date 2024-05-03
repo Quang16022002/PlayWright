@@ -1,0 +1,17 @@
+{
+  "name": "triangle",
+  "version": "1.0.0",
+  "description": "Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  }
+}
