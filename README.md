@@ -6,7 +6,7 @@
 ## Cài Đặt
 1. Clone dự án về máy tính của bạn:
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/Quang16022002/PlayWright.git
 2. Cài các thư viện càn thiết
   npm install
 
